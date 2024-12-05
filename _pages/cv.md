@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-> Dec/05/2024 update
+> Dec/05/2024 update <br>
+
 # EDUCATION
 
 <div><span style="float:right">09/2021 - 07/2025</span><b>China Univerisity of Political Science and Law</b> (<i>CUPL</i>)</div>
