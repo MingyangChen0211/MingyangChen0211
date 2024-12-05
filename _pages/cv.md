@@ -45,7 +45,7 @@ redirect_from:
 - **Project Leader:** Dr. Boyang Xu
 - **Advisor:** Dr. Boyang Xu
 - **Description:** Previous research on punishment deterrence theory largely focused on the impact of increased punishment on crime rates but seldom looked at the effects of reduced penalties. Moreover, previous studies have also paid great attention to the differential effects of deterrence on different types of crimes. Based on the theories of Lord Shang and Beccaria, we will use China's Plea Bargain pilot system and employ the DID method to discuss the impact of reduced penalties on crime rates and the varying effects of deterrence on different crimes. This study will deepen the understanding of deterrence effects and address the heterogeneity analysis concerns raised by previous scholars. 
-- **My Work: **research design; data collection on crime rate and judicial documents; data analysis; literature review on theory frame and Plea Bargain pilot system. 
+- **My Work:** research design; data collection on crime rate and judicial documents; data analysis; literature review on theory frame and Plea Bargain pilot system. 
 - **Final Work (expected):** a paper titled "Punishment Leads to Punishment? A Quasi-Experimental Analysis" (*first author*). 
 - **Other Information:** this work is expected to end at 09/2025. 
 
