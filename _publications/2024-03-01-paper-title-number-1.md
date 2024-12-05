@@ -9,7 +9,7 @@ venue: 'working paper'
 paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/TLCA.pdf'
 ---
 
-[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/TLCA.pdf) <br>
+[Download Paper](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/TLCA.pdf) <br>
 
 **Author**: Mingyang Chen<br>
 
