@@ -3,7 +3,7 @@ title: "Does China Achieve the Goal of Treating Like Cases Alike? Evidence from 
 collection: publications
 category: manuscripts
 permalink: /publication/2024-03-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about "treating like cases alike theory" in China'
 date: 2024-03-01
 venue: 'working paper'
 paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/TLCA.pdf'
