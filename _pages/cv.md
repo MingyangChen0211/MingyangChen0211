@@ -126,7 +126,7 @@ redirect_from:
 - Grade assignments. 
 - Assist in reviewing machine learning-related criminal justice journal manuscripts.
 
-<div><span style="float:right">07/2022 - 07/2023</span><b>Student Committee Minister</b>, School of International Law, CUPL <br>
+<div><span style="float:right">07/2022 - 07/2023</span><b>Student Committee Minister</b>, School of International Law, CUPL</div>
 
 # REWARDS AND GRANTS
 
