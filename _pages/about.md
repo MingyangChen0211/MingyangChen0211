@@ -12,6 +12,4 @@ I am an undergraduate law student in China University of Political Science and L
 I am also a big fan of Japanese animations and comics. Below is a list of my favorite creations: Naruto by *Masashi Kishimodo*; Bleach by *Noriaki Kubo*; Burn the Witch by *Noriaki Kubo*; Death Note by *Tsugumi Ohba* & *Takeshi Obata*; Ajin: Demi-human by *Gamon Sakurai*; Samurai Champloo by *Shinichirō Watanabe*; Cyberpunk: Edgerunners by *TRIGGER*; Kamen Rider Black Sun by *Kazuya Shiraishi*. <br>
 I am also interested in card magics. I even create a magic about finding the card by audiences themselves. My favorite magician is [Lu Chen (刘谦)](http://www.lu-chen.com/about.php). You can follow his [youtube](https://www.youtube.com/channel/UCrkUG6HDUXf8tjQdIqP-kIg) 
 
-<img src="https://raw.githubusercontent.com/MingyangChen0211/ChenMingyang.github.io/d16d42d90b159b135faa1226cad9a10974f1bc81/images/Animate.png" alt="图片alt" style="zoom:19.8%;" />
-<img src="https://raw.githubusercontent.com/MingyangChen0211/ChenMingyang.github.io/refs/heads/master/images/露琪亚.JPG" alt="图片alt" style="zoom:22.5%;" />
 
