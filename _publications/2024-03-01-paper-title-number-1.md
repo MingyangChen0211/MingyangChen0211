@@ -6,10 +6,10 @@ permalink: /publication/2024-03-01-paper-title-number-1
 excerpt: 'This paper is about "treating like cases alike theory" in China'
 date: 2024-03-01
 venue: 'working paper'
-paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen/refs/heads/master/files/TLCA.pdf'
+paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/TLCA.pdf'
 ---
 
-[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen/refs/heads/master/files/TLCA.pdf) <br>
+[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/TLCA.pdf) <br>
 
 **Author**: Mingyang Chen<br>
 
