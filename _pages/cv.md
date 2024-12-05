@@ -79,8 +79,8 @@ redirect_from:
 - **Sponsor:** Ministry of Finance's Fund for National Undergraduate Training Program (***Grant:** ¥10000*)
 - **Advisor:** Dr. Ai Ma
 - **Description:** Prior research has examined the plight of Tongqi (*gay's wife*) in a static context, neglecting the dynamic process of their deception. This study put Tongqi in a victim placement, aiming to build a theoretical framework that captures the evolution from marriage deception to truth discovery. Using interviews and questionnaire surveys on 31 Tongqi, we've developed a three-stage model that explains the deception and the difficulty of leaving their gay husband. We also challenged the previous belief that the internet is unequivocally beneficial for Tongqi. 
-- **My Work: **research design; literature review on Tongqi; interview 22 Tongqi; draft the manuscript.
-- **Final Work: **submit a report titled "How They Know and Escape from the Truth? Research on Tongqi's Cheating Marriage" (*first author*) to the evaluation committee and get a 95/100 score. (*rank 1/101*). 
+- **My Work:** research design; literature review on Tongqi; interview 22 Tongqi; draft the manuscript.
+- **Final Work:** submit a report titled "How They Know and Escape from the Truth? Research on Tongqi's Cheating Marriage" (*first author*) to the evaluation committee and get a 95/100 score. (*rank 1/101*). 
 
 # PRESENTATIONS / FORUMS / CONFERENCES
 
