@@ -6,11 +6,11 @@ permalink: /publication/2024-08-10-paper-title-number-2
 excerpt: 'This paper is about the Zhuanmen School and Social Control Theory'
 date: 2024-08-10
 venue: 'Jimen Criminal Integration Forum, School of Criminal Justice, CUPL'
-paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen/refs/heads/master/files/中文论坛版专门学校.pdf'
+paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/中文论坛版专门学校.pdf'
 location: "Online"
 ---
 
-[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen/refs/heads/master/files/中文论坛版专门学校.pdf). If interested, visit the [summary of this forum](https://mp.weixin.qq.com/s/saVoa17fbh5oZmVPFv50pg). <br>
+[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/中文论坛版专门学校.pdf). If interested, visit the [summary of this forum](https://mp.weixin.qq.com/s/saVoa17fbh5oZmVPFv50pg). <br>
 
 **标题**：专门学校分级分类的二分法证成 基于社会控制理论的实证检验<br>
 
