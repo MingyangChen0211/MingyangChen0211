@@ -9,9 +9,9 @@ venue: 'Youth Justice (Under Review)'
 paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ZhuanmenSchool.pdf'
 ---
 
-[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ZhuanmenSchool.pdf) <br>
+[Download Paper](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ZhuanmenSchool.pdf) <br>
 
-**Authers:** Mingyang Chen, Yantong Guo, Dai Li, Boyang Xu <br>
+**Authors:** Mingyang Chen, Yantong Guo, Dai Li, Boyang Xu <br>
 
 **Research aim and background:** The discourse surrounding the grading andcategorization (GC) system of China's Zhuanmen Schools, which serve as correctional institutions, has been notably deficient in empirical evidence. Social Control Theory (SCT), a prominent theoretical framework in criminology, elucidates the interplay between levels of social control and correctional strategies. This study aims to apply SCT to systematically examine the rationality of existing proposals with teens’ data in China.<br>
 
