@@ -6,10 +6,10 @@ permalink: /publication/2024-08-10-paper-title-number-1
 excerpt: 'This paper is about the Zhuanmen School and Social Control Theory'
 date: 2024-08-10
 venue: 'Youth Justice (Under Review)'
-paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ZhuanmenSchool.pdf'
+paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen/refs/heads/master/files/ZhuanmenSchool.pdf'
 ---
 
-[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ZhuanmenSchool.pdf) <br>
+[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen/refs/heads/master/files/ZhuanmenSchool.pdf) <br>
 
 **Authers:** Mingyang Chen, Yantong Guo, Dai Li, Boyang Xu <br>
 
