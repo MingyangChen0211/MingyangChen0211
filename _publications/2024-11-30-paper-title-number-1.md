@@ -3,7 +3,7 @@ title: "Criminal Justice Theory, Empirical Study, Machine Learning and Judge Dec
 collection: publications
 category: conferences
 permalink: /publication/2024-11-30-paper-title-number-1
-excerpt: 'This paper is about machine learning and judges's decisions'
+excerpt: 'This paper is about machine learning and judges decisions'
 date: 2024-11-30
 venue: 'the 7th Towards Data Law Conference'
 slidesurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ML-Slides.pdf'
