@@ -65,7 +65,7 @@ redirect_from:
 - **Advosor:** Dr. Dai Li & Dr. Boyang Xu
 
 - **Description:** Discussions on the grading and categorization (GC) system in China's Zhuanmen Schools have been lacking empirical evidence. Social control theory is often used to assess correctional difficulty and determine correction strategies. We utilized data from 3 Zhuanmen Schools in China, employing one-way ANOVA and LSD tests to explore which GC method is more reasonable. We also investigated the pathways among social control theory factors and the relationship between these factors and the severity of behavior using mediation analysis. Our study contributes by offering empirical evidence-based suggestions for the GC system and explores how social control affects the severity of behavior. 
-- **My Work: **research design; literature review on PPCP theory and GC system; questionnaire design; conduct surveys in 2 provinces; data analysis; draft the manuscript.
+- **My Work:** research design; literature review on PPCP theory and GC system; questionnaire design; conduct surveys in 2 provinces; data analysis; draft the manuscript.
 - **Final Work**: a paper titled "Treating Different Delinquent Teens Differently: An Empirical Study on China’s Zhuanmen Schools" (*first author*). I attended an academic forum. 
 
 <div><span style="float:right">09/2023 - 03/2024</span><b>Independent Researcher</b>, Independent Research</div>
