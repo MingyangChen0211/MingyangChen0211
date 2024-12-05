@@ -127,7 +127,7 @@ redirect_from:
 - Grade assignments. 
 - Assist in reviewing machine learning-related criminal justice journal manuscripts.
 
-<div><span style="float:right">07/2022 - 07/2023</span><b>Student Committee Minister</b>, School of International Law, CUPL</div>
+<div><span style="float:right">07/2022 - 07/2023</span><b>Student Committee Minister</b>, School of International Law, CUPL</div><br>
 
 # REWARDS AND GRANTS
 
@@ -139,7 +139,7 @@ redirect_from:
 
 <div><span style="float:right">12/2022</span><b>First Prize Scholarship</b>, CUPL</div>
 
-<div><span style="float:right">09/2022</span><b>Grant: ¥10000</b>, Ministry of Finance's Fund for National Undergraduate Training Program</div>
+<div><span style="float:right">09/2022</span><b>Grant: ¥10000</b>, Ministry of Finance's Fund for National Undergraduate Training Program</div><br>
 
 # SKILLS
 
