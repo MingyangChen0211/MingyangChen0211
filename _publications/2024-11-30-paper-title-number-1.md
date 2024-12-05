@@ -6,12 +6,12 @@ permalink: /publication/2024-11-30-paper-title-number-1
 excerpt: 'This paper is about machine learning and judges decisions'
 date: 2024-11-30
 venue: 'the 7th Towards Data Law Conference'
-slidesurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ML-Slides.pdf'
-paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ML-JudgeDecision.pdf'
+slidesurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen/refs/heads/master/files/ML-Slides.pdf'
+paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen/refs/heads/master/files/ML-JudgeDecision.pdf'
 location: "Hangzhou, Zhejiang"
 ---
 
-[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ML-JudgeDecision.pdf) <br>
+[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen/refs/heads/master/files/ML-JudgeDecision.pdf) <br>
 
 **Authors:**  Mingyang Chen , Gaojie Song , Zhanxue Xu, Zhipeng Wu, Aokai Wang , Zian Ren, Boyang Xu
 
