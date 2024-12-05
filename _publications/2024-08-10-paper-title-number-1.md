@@ -11,6 +11,8 @@ paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/r
 
 [Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ZhuanmenSchool.pdf) <br>
 
+**Authers:** Mingyang Chen, Yantong Guo, Dai Li, Boyang Xu <br>
+
 **Research aim and background:** The discourse surrounding the grading andcategorization (GC) system of China's Zhuanmen Schools, which serve as correctional institutions, has been notably deficient in empirical evidence. Social Control Theory (SCT), a prominent theoretical framework in criminology, elucidates the interplay between levels of social control and correctional strategies. This study aims to apply SCT to systematically examine the rationality of existing proposals with teens’ data in China.<br>
 
 **Research method:** Utilizing a localized social control scale in Chinese, we conducted a questionnaire survey encompassing 111 student participants from three Zhuanmen Schools. In alignment with recent legislative reforms and academic recommendations, students were categorized into three distinct groups: those engaging in "general delinquent behavior" (GDB), those committing "serious delinquent behavior (without infringing criminal law)" (SDB), and those involved in "criminal acts" (CA). We used mediation analysis to assess the mechanisms of attachment, commitment and involvement which represent core elements of SCT, and applied one-way ANOVA coupled with LSD tests to determine the appropriateness of various GC plans within the Chinese context.<br>
