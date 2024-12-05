@@ -8,6 +8,7 @@ date: 2024-11-30
 venue: 'the 7th Towards Data Law Conference'
 slidesurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ML-Slides.pdf'
 paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ML-JudgeDecision.pdf'
+location: "Hangzhou, Zhejiang"
 ---
 
 [Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ML-JudgeDecision.pdf) <br>
