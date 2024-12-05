@@ -18,8 +18,7 @@ redirect_from:
 - **Core and Related Courses:** 
   - **Criminology & Sociology:** Criminology (*A*), Introduction to Sociology (*A*), Sociology on Aberrant Conduct (*A*), Contemporary Chinese Society (*A*)
   - **Criminal Law & Criminal Justice:** General Principles of Criminal Law (*A*), Advanced Criminal Law (*A*), Criminal Procedure Law (*A*), Science of Law of Criminal Execution (*A*), Delinquency of Juvenile and Young Adults and Juvenile Justice (*A*), Law and Economics (*A*)
-  - **Data Analysis:** Computer Concepts (*A*), Introduction of Logics (*A*), Discrete Mathematics (*A*), The Basis of Program Design - Dev C++ (*A*),  Python Programming Language (*A*),  Social Statistics - R Programming Language (*audit*)
-
+  - **Data Analysis:** Computer Concepts (*A*), Introduction of Logics (*A*), Discrete Mathematics (*A*), The Basis of Program Design - Dev C++ (*A*),  Python Programming Language (*A*),  Social Statistics - R Programming Language (*audit*)<br>
 
 # RESEARCH INTERESTS
 
@@ -27,7 +26,7 @@ redirect_from:
 
 **Criminal Policy Evaluation:** I am interested in using causal inference to evaluate criminal policies. I  also focus on causal inference with machine learning. 
 
-**Juvenile Justice:** I am interested in why teenagers commit crimes and the correction institution. 
+**Juvenile Justice:** I am interested in why teenagers commit crimes and the correction institution. <br>
 
 # WRITINGS
 
@@ -37,7 +36,7 @@ redirect_from:
 
 **Mingyang Chen**, Shujian Lin, Boyang Xu (*expected to complete in 2025*). Punishment Leads to Punishment? A Quasi-Experimental Analysis. (***work in progress***) 
 
-**Mingyang Chen**, Gaojie Song, Zhipeng Wu, Zhanxue Xu, Boyang Xu (*expected to complete in 2026*). Criminal Justice Theory, Empirical Study, Machine Learning and Judge Decision-Making. (***work in progress***) 
+**Mingyang Chen**, Gaojie Song, Zhipeng Wu, Zhanxue Xu, Boyang Xu (*expected to complete in 2026*). Criminal Justice Theory, Empirical Study, Machine Learning and Judge Decision-Making. (***work in progress***) <br>
 
 # RESEARCH EXPERIENCES
 
@@ -80,7 +79,7 @@ redirect_from:
 - **Advisor:** Dr. Ai Ma
 - **Description:** Prior research has examined the plight of Tongqi (*gay's wife*) in a static context, neglecting the dynamic process of their deception. This study put Tongqi in a victim placement, aiming to build a theoretical framework that captures the evolution from marriage deception to truth discovery. Using interviews and questionnaire surveys on 31 Tongqi, we've developed a three-stage model that explains the deception and the difficulty of leaving their gay husband. We also challenged the previous belief that the internet is unequivocally beneficial for Tongqi. 
 - **My Work:** research design; literature review on Tongqi; interview 22 Tongqi; draft the manuscript.
-- **Final Work:** submit a report titled "How They Know and Escape from the Truth? Research on Tongqi's Cheating Marriage" (*first author*) to the evaluation committee and get a 95/100 score. (*rank 1/101*). 
+- **Final Work:** submit a report titled "How They Know and Escape from the Truth? Research on Tongqi's Cheating Marriage" (*first author*) to the evaluation committee and get a 95/100 score. (*rank 1/101*). <br>
 
 # PRESENTATIONS / FORUMS / CONFERENCES
 
@@ -101,7 +100,7 @@ redirect_from:
 
 - Title: "Mixed-Orientation Marriage and Domestic Violence Tongqi (*gay's wife*) Suffered". 
 - This is not a peer-review workshop; "Hotarubi" is an NGO for anti-domestic violence. 
-- If interested, visit https://mp.weixin.qq.com/s/a6-1JkS2O1oWdgeuvnpn-w (*need translation*).
+- If interested, visit https://mp.weixin.qq.com/s/a6-1JkS2O1oWdgeuvnpn-w (*need translation*).<br>
 
 # INTERNSHIP / VOLUNTARY
 
@@ -118,7 +117,7 @@ redirect_from:
 
 <div><span style="float:right">02/2023</span><b>Teaching Volunteer</b>, Western Volunteers Association</div>
 
-<div><span style="float:right">01/2022</span><b>Teaching Volunteer</b>, Volunteer Department of CUPL Student Committee</div>
+<div><span style="float:right">01/2022</span><b>Teaching Volunteer</b>, Volunteer Department of CUPL Student Committee</div><br>
 
 # SERVICES
 
@@ -127,7 +126,7 @@ redirect_from:
 - Grade assignments. 
 - Assist in reviewing machine learning-related criminal justice journal manuscripts.
 
-<div><span style="float:right">07/2022 - 07/2023</span><b>Student Committee Minister</b>, School of International Law, CUPL</div>
+<div><span style="float:right">07/2022 - 07/2023</span><b>Student Committee Minister</b>, School of International Law, CUPL</div><br>
 
 # REWARDS AND GRANTS
 
@@ -139,7 +138,7 @@ redirect_from:
 
 <div><span style="float:right">12/2022</span><b>First Prize Scholarship</b>, CUPL</div>
 
-<div><span style="float:right">09/2022</span><b>Grant: ¥10000</b>, Ministry of Finance's Fund for National Undergraduate Training Program</div>
+<div><span style="float:right">09/2022</span><b>Grant: ¥10000</b>, Ministry of Finance's Fund for National Undergraduate Training Program</div><br>
 
 # SKILLS
 
