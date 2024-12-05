@@ -138,7 +138,7 @@ redirect_from:
 
 <div><span style="float:right">12/2022</span><b>First Prize Scholarship</b>, CUPL</div>
 
-<div><span style="float:right">09/2022</span><b>Grant: ¥10000</b>, Ministry of Finance's Fund for National Undergraduate Training Program</div> <br>
+<div><span style="float:right">09/2022</span><b>Grant: ¥10000</b>, Ministry of Finance's Fund for National Undergraduate Training Program</div> 
 
 # SKILLS
 
