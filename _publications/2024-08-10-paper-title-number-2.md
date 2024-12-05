@@ -11,8 +11,6 @@ paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/r
 
 [Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/中文论坛版专门学校.pdf). If interested, visit the [summary of this forum](https://mp.weixin.qq.com/s/saVoa17fbh5oZmVPFv50pg). <br>
 
-**中文信息**：<br>
-
 **标题**：专门学校分级分类的二分法证成 基于社会控制理论的实证检验<br>
 
 **论坛名**：蓟门刑事一体化论坛(中国政法大学刑事司法学院王志远教授主持)<br>
