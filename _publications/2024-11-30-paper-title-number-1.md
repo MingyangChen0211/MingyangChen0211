@@ -11,7 +11,7 @@ paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/r
 location: "Hangzhou, Zhejiang"
 ---
 
-[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ML-JudgeDecision.pdf) <br>
+[Download Paper](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/ML-JudgeDecision.pdf) <br>
 
 **Authors:**  Mingyang Chen , Gaojie Song , Zhanxue Xu, Zhipeng Wu, Aokai Wang , Zian Ren, Boyang Xu
 
