@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-08-10-paper-title-number-2
 excerpt: 'This paper is about the Zhuanmen School and Social Control Theory'
 date: 2024-08-10
-venue: 'Jimen Criminal Integration Forum, School of Criminal Justice, CUPL'
+venue: 'Jimen Criminal Integration Forum'
 paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/中文论坛版专门学校.pdf'
 location: "Online"
 ---
