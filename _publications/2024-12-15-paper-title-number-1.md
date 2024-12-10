@@ -6,6 +6,7 @@ permalink: /publication/2024-12-15-paper-title-number-1
 excerpt: 'This paper is about machine learning and judges decisions. it is a Chinese version. '
 date: 2024-12-15
 venue: 'Tianjin Law Society Applied Law Branch 2024 Annual Conference'
+slidesurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/天津法学会2024.pdf'
 paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/机器学习与法官决策.pdf'
 ---
 
