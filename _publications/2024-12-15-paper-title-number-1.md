@@ -1,5 +1,5 @@
 ---
-title: "Criminal Justice Theory, Empirical Study, Machine Learning and Judge Decision-Making (Chinese Paper)"
+title: "Criminal Justice Theory, Empirical Study, Machine Learning and Judge Decision-Making(Chinese Paper)"
 collection: publications
 category: conferences
 permalink: /publication/2024-12-15-paper-title-number-1
