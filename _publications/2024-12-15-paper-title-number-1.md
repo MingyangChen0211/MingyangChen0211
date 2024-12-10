@@ -1,9 +1,9 @@
 ---
-title: "Criminal Justice Theory, Empirical Study, Machine Learning and Judge DecisionMaking (Chinese Paper)"
+title: "Criminal Justice Theory, Empirical Study, Machine Learning and Judge Decision-Making (Chinese Paper)"
 collection: publications
 category: conferences
 permalink: /publication/2024-12-15-paper-title-number-1
-excerpt: 'This paper is about machine learning and judges's decisions'
+excerpt: 'This paper is about machine learning and judges decisions. it is a Chinese version. '
 date: 2024-12-15
 venue: 'Tianjin Law Society Applied Law Branch 2024 Annual Conference'
 paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/机器学习与法官决策.pdf'
