@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-> Dec/05/2024 update <br>
+> Dec/10/2024 update <br>
 
 # EDUCATION
 
