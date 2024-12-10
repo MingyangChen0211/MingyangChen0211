@@ -10,7 +10,7 @@ slidesurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/
 paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/机器学习与法官决策.pdf'
 ---
 
-[Download here](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/机器学习与法官决策.pdf) <br>
+[Download Paper](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/机器学习与法官决策.pdf) <br>
 
 **作者:** 陈铭阳，宋高捷，徐展学，吴志鹏，王骜凯，任子安，许博洋
 
