@@ -83,6 +83,12 @@ redirect_from:
 
 # PRESENTATIONS / FORUMS / CONFERENCES
 
+<div><span style="float:right"> 12/2024</span>Tianjin Law Society: <b>Applied Law Branch 2024 Annual Conference</b>, Tianjin</div>
+
+- Title: "Criminal Justice Theory, Empirical Study, Machine Learning and Judge Decision-Making" (*Chinese Version*)
+- This is a peer-review academic conference held by Tianjin Law Society. 
+- My collaborator Gaojie Song will attend this conference as presentor. 
+
 <div><span style="float:right"> 11/2024</span>Guanghua Law School, Zhejiang University, et al.: <b>Towards Data Law Conference</b>, Hangzhou</div>
 
 - Title: "Criminal Justice Theory, Empirical Study, Machine Learning and Judge Decision-Making"
