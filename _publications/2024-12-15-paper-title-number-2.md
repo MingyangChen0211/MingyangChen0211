@@ -6,10 +6,10 @@ permalink: /publication/2024-12-15-paper-title-number-2
 excerpt: 'This paper is the Chinese version paper about the Zhuanmen School and Social Control Theory. It is accepted. We do not present it on this seminar. '
 date: 2024-12-15
 venue: 'Seminar on the Punishment and Prevention of Juvenile Delinquency'
-paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/专门学校.pdf'
+paperurl: 'https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/区别对待.pdf'
 ---
 
-[Download Paper](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/专门学校.pdf) <br>
+[Download Paper](https://raw.githubusercontent.com/MingyangChen0211/MingyangChen0211/refs/heads/master/files/区别对待.pdf) <br>
 
 **标题:** 区别对待：专门学校的罪错青少年分级分类之实证研究
 
