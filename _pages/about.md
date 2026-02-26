@@ -9,7 +9,7 @@ redirect_from:
 <br>
 Here is **Mingyang Chen (陈铭阳)**.<br>
 <br>
-I am an undergraduate law student in China University of Political Science and Law (CUPL). My research interests include Sentencing, Machine Learning in Criminal Justice, and Criminal Policy Evaluation. Recently our work gets the best paper honorable mention award on AAAI2026 Bridge program. <br>
+I am a Master student in Criminology and Criminal Justice in University of Macau. Before studying in University of Macau, I got a LL.B. degree from China University of Political Science and Law and also pass the China Bar Exam. My research interests include Sentencing, Machine Learning in Criminal Justice, and Criminal Policy Evaluation. Recently our work got the best paper honorable mention award on AAAI2026 Bridge program. <br>
 <br>
 I am also a big fan of Japanese animations and comics. Below is a list of my favorite creations: Naruto by *Masashi Kishimodo*; Bleach by *Noriaki Kubo*; Burn the Witch by *Noriaki Kubo*; Jujutsu Kaisen by *Akutami Gege*; Death Note by *Tsugumi Ohba* & *Takeshi Obata*; Ajin: Demi-human by *Gamon Sakurai*; Samurai Champloo by *Shinichirō Watanabe*; Cyberpunk: Edgerunners by *TRIGGER*; Kamen Rider Black Sun by *Kazuya Shiraishi*. <br>
 <br>
