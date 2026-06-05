@@ -1,7 +1,7 @@
 ---
 title: "Chinese.legalText: A Package for Analyzing CJO Criminal Documents"
 collection: talks
-type: "Talk"
+category: manuscripts
 permalink: /talks/2026-05-16-chineselegaltext
 excerpt: ''
 date: 2026-05-16
