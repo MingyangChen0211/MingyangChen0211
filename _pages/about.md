@@ -15,4 +15,4 @@ I am also a big fan of Japanese animations and comics. Below is a list of my fav
 <br>
 I am also interested in card magics. I even create a magic about finding the card by audiences themselves. My favorite magician is [Lu Chen (刘谦)](http://www.lu-chen.com/about.php). I design magic on my own as well.  <br>
 <br>
-Download my [CV](https://github.com/MingyangChen0211/MingyangChen0211/tree/master/files/CV.pdf) here. 
+Download my [CV](https://github.com/MingyangChen0211/MingyangChen0211/raw/refs/heads/master/files/CV.pdf) here. 
