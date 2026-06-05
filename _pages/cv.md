@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "CRRRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,7 +20,7 @@ redirect_from:
 - **Degree:** Master of Social Science in Criminology and Criminal Justice
 - **GPA**: 4.0/4.0 (*rank top 5%*)
 
-## PUBLICATIOB
+## PUBLICATION
 
 *Peer-review English Papers:*
 
