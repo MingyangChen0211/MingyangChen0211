@@ -7,8 +7,11 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
   - title: "Software"
+    url: /portfolio/     
+    
+  - title: "Talks"
     url: /talks/     
 
   - title: "Teaching"
