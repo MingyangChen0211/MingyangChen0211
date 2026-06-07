@@ -15,5 +15,5 @@ Recently, our work got the best paper honorable mention award on AAAI2026 Bridge
 <br>
 I am also a big fan of Japanese animations and comics. Below is a list of my favorite creations: Naruto by *Masashi Kishimodo*; Bleach by *Noriaki Kubo*; Burn the Witch by *Noriaki Kubo*; Jujutsu Kaisen by *Akutami Gege*; Death Note by *Tsugumi Ohba* & *Takeshi Obata*; Ajin: Demi-human by *Gamon Sakurai*; Samurai Champloo by *Shinichirō Watanabe*; Cyberpunk: Edgerunners by *TRIGGER*. I draw these comic characters sometimes. <br>
 <br>
-I am also interested in card magics. I even create a magic about finding the card by audiences themselves. My favorite magician is Lu Chen. I design my own magic as well.  <br>
+I am also interested in card magics. My favorite magician is Lu Chen. I design my own magic as well. One of my favorite magic created by myself is to let the audiances find the card they select on their own. <br>
 <br>
