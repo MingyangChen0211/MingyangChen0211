@@ -1,5 +1,5 @@
 ---
-title: "CV: Short Version"
+title: "CRRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
