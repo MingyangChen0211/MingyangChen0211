@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+{% include group-by-array collection=site.portfolio field="categories" %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% for category in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endfor %}
