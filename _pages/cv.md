@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-[Full Version](https://github.com/MingyangChen0211/MingyangChen0211/raw/refs/heads/master/files/CV.pdf)
+[Full Version](https://github.com/MingyangChen0211/MingyangChen0211/raw/refs/heads/master/files/cv.pdf)
 
 ## EDUCATION
 
