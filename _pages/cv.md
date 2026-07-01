@@ -31,22 +31,3 @@ redirect_from:
 ## SOFTWARE
 
 **Mingyang Chen**, Zhipeng Wu (2026). *Chinese.legalText: A Package for Analyzing CJO Criminal Documents*. R package version 1.0.0. [Link](https://mingyangchen0211.github.io/ChineselegalText.github.io)
-
-## INTERNSHIP
-
-<div><span style="float:right">06/2024 - 08/2024</span><b>Legal Knowledge Engineer Intern</b>, Famao Technology Co., Ltd, Beijing</div>
-
-<div><span style="float:right">07/2023 - 08/2023</span><b>Criminal Lawyer Intern</b>, ZHONGYIN Law Firm, Fuzhou</div>
-
-## SKILLS
-
-**Language:** Mandrain Chinese (*mother tongue*), Taiwanese/Hokkien (*mother tongue*), English (*fluent, IELTS 7.5*)
-
-**Computing:** R, Python
-
-**Typesetting:** MS Office, Markdown, LaTeX
-
-**Certificate:** China Legal Professional Qualification Certificate (*中国法律职业资格证*)
-
-**Others:** GRE 334 (*verbal164+quantitative170*)
-
