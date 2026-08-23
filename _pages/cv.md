@@ -12,11 +12,11 @@ redirect_from:
 
 <div><span style="float:right">08/2025 - present</span><b>University of Macau</b> (<i>UM</i>)</div>
 
-- **Degree:** Master of Social Science in Criminology and Criminal Justice
+- Master of Social Science in Criminology and Criminal Justice
 
 <div><span style="float:right">09/2021 - 07/2025</span><b>China Univerisity of Political Science and Law</b> (<i>CUPL</i>)</div>
 
-- **Degree:** Bachelor of Law (*LL.B. in Law*)
+- Bachelor of Law (*LL.B. in Law*)
 
 ## SELECTED PUBLICATIONS
 
@@ -36,10 +36,3 @@ redirect_from:
 
 <div style="padding-left: 2em; text-indent: -2em; margin-bottom: 0.5em;"><strong>Mingyang Chen</strong>, Zhipeng Wu (2026). <i>Chinese.legalText: A Package for Analyzing CJO Criminal Documents</i>. R package version 1.0.1. <a href="https://mingyangchen0211.github.io/ChineselegalText.github.io" style="color: blue; text-decoration: underline;">Link</a>
 </div>
-
-## INDUSTRIAL ACTIVITIES & TALKS
-
-**Tencent Research Institute AI&Society Camp 2026** \| Beijing, China
-*Research Sharing Track* \| 10/2026
-
-- Share our research on AI and Sentencing Decisions. (*Supported by Tencent Co., Ltd*)
