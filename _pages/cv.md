@@ -40,7 +40,7 @@ redirect_from:
 
 ## INDUSTRIAL ACTIVITIES & TALKS
 
-**Tencent Research Institute AI&Society Camp 2026** | Beijing, China
-*Research Sharing Track* | 10/2026
+**Tencent Research Institute AI&Society Camp 2026** \| Beijing, China
+*Research Sharing Track* \| 10/2026
 
 - Share our research on AI and Sentencing Decisions. (*Supported by Tencent Co., Ltd*)
