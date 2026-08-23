@@ -20,7 +20,6 @@ redirect_from:
 
 ## SELECTED PUBLICATIONS
 
-</div>
 <div style="padding-left: 2em; text-indent: -2em; margin-bottom: 0.5em;">
   <strong>Mingyang Chen</strong>, Shujian Lin, Boyang Xu (In press). Does Plea Leniency Lead to Higher Crime Rates by Lowering Conviction Standards? A Quasi-Experimental Analysis in China. <em>Asian Journal of Comparative Law</em>, 21(1). <span style="color: grey;">(<i>Asia Leading Law Journal</i>)</span>
 </div>
