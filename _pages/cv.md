@@ -18,4 +18,4 @@ redirect_from:
 
 - Bachelor of Law (*LL.B. in Law*)
 
-<div><span style="float:right">09/2018 - 06/2021</span><b>Quanzhou No.5 Middle School</b></div>
+<div><span style="float:right">09/2018 - 06/2021</span><b>Quanzhou No.5 Middle School</b> (<i>QZ5Z</i>)</div>
