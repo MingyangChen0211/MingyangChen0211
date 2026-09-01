@@ -1,5 +1,5 @@
 ---
-title: "CRRICULUM VITAE"
+title: "CURRICULUM VITAE"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,16 +18,4 @@ redirect_from:
 
 - Bachelor of Law (*LL.B. in Law*)
 
-## PROFESSIONAL EXPERIENCE
-**Famao Technology Co., Ltd** | Beijing, China
-*Legal Knowledge Engineer Intern* | 06/2024 – 08/2024
-
-- Supervised by Product Manager: Mr. Changrui Liu
-- Developed an automatic data search engine for legal professionals with computer scientists.
-
-**ZHONGYIN Law Firm** | Fuzhou, China
-*Criminal Lawyer Intern* | 07/2023 – 08/2023
-
-- Supervised by Senior Partner: Mr. Bin Feng
-- Drafted legal documents for defendants. 
-- Collected and organized materials, including related legal provisions and judicial documents.
+<div><span style="float:right">09/2018 - 06/2021</span><b>Quanzhou No.5 Middle School</b></div>
