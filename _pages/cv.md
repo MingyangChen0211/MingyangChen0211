@@ -18,21 +18,16 @@ redirect_from:
 
 - Bachelor of Law (*LL.B. in Law*)
 
-## SELECTED PUBLICATIONS
+## PROFESSIONAL EXPERIENCE
+**Famao Technology Co., Ltd** | Beijing, China
+*Legal Knowledge Engineer Intern* | 06/2024 – 08/2024
 
-<div style="padding-left: 2em; text-indent: -2em; margin-bottom: 0.5em;">
-  <strong>Mingyang Chen</strong>, Shujian Lin, Boyang Xu (In press). Does Plea Leniency Lead to Higher Crime Rates by Lowering Conviction Standards? A Quasi-Experimental Analysis in China. <em>Asian Journal of Comparative Law</em>, 21(1). <span style="color: grey;">(<i>Asia Leading Law Journal</i>)</span>
-</div>
+- Supervised by Product Manager: Mr. Changrui Liu
+- Developed an automatic data search engine for legal professionals with computer scientists.
 
-<div style="padding-left: 2em; text-indent: -2em; margin-bottom: 0.5em;">
-  <strong>Mingyang Chen</strong>, Gaojie Song, Zhipeng Wu, Zhanxue Xu, Boyang Xu (2026). Judges are Trained as Good Explainers but Maligned Sentencers by Collective Experiences: A Text Similarity Approach. <em>Law Probability & Risk</em>, 25(1), mgag007 <span style="color: grey;">(<i>SSCI/SCI Q1</i>)</span> <a href="https://doi.org/10.1093/lpr/mgag007" style="color: blue; text-decoration: underline;">Link</a>
-</div>
+**ZHONGYIN Law Firm** | Fuzhou, China
+*Criminal Lawyer Intern* | 07/2023 – 08/2023
 
-<div style="padding-left: 2em; text-indent: -2em; margin-bottom: 0.5em;">
-  <strong>Mingyang Chen</strong>, Zhipeng Wu (2026). Machine Judges Reduce Sentencing Bias? A Computational Social Science Evaluation. <em>The 40th AAAI: Bridge Between AI and Law</em>, 43-50. <span style="color: grey;">(<i>CORE Computer Science A+ Proceedings</i>)</span> <a href="https://bridge-ai-law.github.io/assets/pdf/chen2026machine.pdf" style="color: blue; text-decoration: underline;">Link</a>
-</div>
-
-## SOFTWARE
-
-<div style="padding-left: 2em; text-indent: -2em; margin-bottom: 0.5em;"><strong>Mingyang Chen</strong>, Zhipeng Wu (2026). <i>Chinese.legalText: A Package for Analyzing CJO Criminal Documents</i>. R package version 1.0.1. <a href="https://mingyangchen0211.github.io/ChineselegalText.github.io" style="color: blue; text-decoration: underline;">Link</a>
-</div>
+- Supervised by Senior Partner: Mr. Bin Feng
+- Drafted legal documents for defendants. 
+- Collected and organized materials, including related legal provisions and judicial documents.
