@@ -215,7 +215,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: false
-    permalink: /:collection/:path/
+    permalink: /publications/pub.md
   portfolio:
     output: true
     permalink: /:collection/:path/
