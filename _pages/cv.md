@@ -14,7 +14,7 @@ redirect_from:
 
 - Master of Social Science in Criminology and Criminal Justice
 
-<div><span style="float:right">09/2021 - 07/2025</span><b>China Univerisity of Political Science and Law</b> (<i>CUPL</i>)</div>
+<div><span style="float:right">09/2021 - 06/2025</span><b>China Univerisity of Political Science and Law</b> (<i>CUPL</i>)</div>
 
 - Bachelor of Law (*LL.B. in Law*)
 
